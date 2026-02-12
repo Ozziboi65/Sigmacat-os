@@ -2,7 +2,8 @@
 Simple Operating system
 
 
-
+when using an VM use legacy Bios
+Uefi Does not WORK!
 
 Tools Needed:
 Note:
@@ -21,3 +22,5 @@ NASM
 grub-mkrescue 
 and grub tools i belive
 
+Warning:
+Iam not resposiable for anything you do with this, please use an virtual machine.
