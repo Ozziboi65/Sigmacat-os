@@ -1,6 +1,7 @@
 # Sigmacat-os
 Simple Operating system
-
+![alt text]("console1.png")
+![alt text]("crash.png")
 
 when using an VM use legacy Bios
 Uefi Does not WORK!
