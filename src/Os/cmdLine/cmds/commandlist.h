@@ -13,6 +13,7 @@ struct Command{
 #include "follow.h"
 #include "FuckTheCpu.h"
 #include "Debug.h"
+#include "whoami.h"
 
 static struct Command CmdList[] = {
 
